@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just a guy trying to write code 👋
 
 <!--
 **Ivanv0/Ivanv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
